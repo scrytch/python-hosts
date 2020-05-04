@@ -1,4 +1,9 @@
-python-hosts
+python-hosts-pihole5
+========
+
+Minor tweak to allow output of hosts with a space instead of a tab so it works with pihole 5 custom.list
+https://github.com/scrytch/unifi-to-pihole5-custom-list-mapping
+
 ========
 [![Build Status](https://api.travis-ci.org/jonhadfield/python-hosts.svg?branch=devel)](https://travis-ci.org/jonhadfield/python-hosts) [![Coverage Status](https://coveralls.io/repos/jonhadfield/python-hosts/badge.svg?branch=master&service=github)](https://coveralls.io/github/jonhadfield/python-hosts?branch=master) [![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](http://python-hosts.readthedocs.org/en/latest/)
 
